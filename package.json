@@ -1,6 +1,6 @@
 {
   "name": "@neelify/baileys",
-  "version": "2.2.13",
+  "version": "2.2.14",
   "description": "Neelify fork of Baileys: multi-device WhatsApp Web API for Node.js",
   "keywords": [
     "whatsapp",
