@@ -14,13 +14,13 @@
     "neelify",
     "baileys-fork"
   ],
-  "homepage": "https://github.com/neelify/baileys#readme",
+  "homepage": "https://github.com/neelegirly/baileys#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neelify/baileys.git"
+    "url": "git+https://github.com/neelegirly/baileys.git"
   },
   "license": "MIT",
-  "author": "neelify",
+  "author": "neelegirly",
   "main": "lib/index.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -115,6 +115,6 @@
   },
   "packageManager": "yarn@1.22.19",
   "bugs": {
-    "url": "https://github.com/neelify/baileys/issues"
+    "url": "https://github.com/neelegirly/baileys/issues"
   }
 }

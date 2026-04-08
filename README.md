@@ -17,7 +17,7 @@ Neelify-Variante von Baileys als WhatsApp-Web-Basis fuer Node.js.
 | Paket | Empfohlene Version |
 | --- | --- |
 | `@neelify/baileys` | `2.2.16` |
-| `@neelify/wa-api` | `1.7.15` |
+| `@neelegirly/wa-api` | `1.7.15` |
 | `@neelify/libsignal` | `1.0.27` |
 
 ## Installation
@@ -85,7 +85,7 @@ Die Anzeige liest Versionen dynamisch aus `package.json` und zeigt bei Bedarf ei
 ## Update-Check
 
 - Pruefquelle 1: npm Registry (`registry.npmjs.org`)
-- Pruefquelle 2: GitHub Releases (`neelify/baileys`) als Fallback
+- Pruefquelle 2: GitHub Releases (`neelegirly/baileys`) als Fallback
 - Fehler/Timeouts werden abgefangen, ohne den Prozess zu stoppen
 - Semver-Vergleich wird numerisch ausgewertet
 
